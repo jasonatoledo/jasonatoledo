@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jasonatoledo
-- 👀 I’m interested in learning new Python and machine learning techniques
-- :heavy_plus_sign: I have experience in SQL, Python, Tableau, Airflow, Metabase, and more
-- 🌱 I’m recently finished my MS in Computer Information Systems, with a concentration in Database Management & Business Intelligence
+- :heavy_plus_sign: I have experience in SQL, Python, Tableau, Looker, Airflow, Metabase, and more
+- 🌱 I have an MS in Computer Information Systems, with a concentration in Database Management & Business Intelligence
 - 💞️ I’m looking to collaborate on freelance analytics projects
 - 📫 Look me up on LinkedIn! https://www.linkedin.com/in/jason-toledo22/
 
