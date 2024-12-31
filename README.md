@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonatoledo
-- :heavy_plus_sign: I have experience in SQL, Python, Tableau, Looker, Airflow, Metabase, and more
+- :heavy_plus_sign: I have experience in SQL, Python, dbt Cloud, Looker, Apache Airflow, Metabase, and more
 - 🌱 I have an MS in Computer Information Systems, with a concentration in Database Management & Business Intelligence
 - 💞️ I’m looking to collaborate on freelance analytics projects
 - 📫 Look me up on LinkedIn! https://www.linkedin.com/in/jason-toledo22/
